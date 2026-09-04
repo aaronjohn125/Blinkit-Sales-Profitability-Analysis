@@ -1,1 +1,1 @@
-# E-Commerce-Sales-Profitability-Analysis
+Blinkit Sales & Profitability Analysis (Python, Pandas, NumPy, Matplotlib)
